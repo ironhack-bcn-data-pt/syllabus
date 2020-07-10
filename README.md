@@ -15,10 +15,16 @@
 
 ## Data wrangling and visualization
 - Pandas
+  - https://towardsdatascience.com/pandas-cheat-sheet-4c4eb6802a4b
+  - https://towardsdatascience.com/my-python-pandas-cheat-sheet-746b11e44368
+  - https://towardsdatascience.com/quick-dive-into-pandas-for-data-science-cc1c1a80d9c4
+  - https://towardsdatascience.com/be-a-more-efficient-data-scientist-today-master-pandas-with-this-guide-ea362d27386
 - Advanced Pandas
+  - [Advanced tools] https://towardsdatascience.com/take-the-pain-out-of-data-cleaning-for-machine-learning-20a646a277fd   
 - SQL
 - API + Flask
 - Scraping
+  - https://towardsdatascience.com/web-scraping-using-python-and-beautifulsoap-a-step-by-step-tutorial-8389ee7da6a0
 - Data Visualization
   - [Reporting data using Python](https://github.com/nick-gould/Reporting-Data-Using-Python/blob/master/ReportingDataUsingPython.ipynb)
   - https://medium.com/swlh/your-ultimate-python-visualization-cheat-sheet-663318470db
@@ -45,6 +51,7 @@
 - Machine learning + Git/DVC
 - Feature engineering
 - Regression
+  - https://towardsdatascience.com/simple-linear-regression-whats-inside-702475055ad5
 - Classification
 - CV, tuning, balanced
 - Dimensionality reduction
