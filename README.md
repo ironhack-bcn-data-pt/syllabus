@@ -23,8 +23,14 @@
   - [Advanced tools] https://towardsdatascience.com/take-the-pain-out-of-data-cleaning-for-machine-learning-20a646a277fd   
 - SQL
 - API + Flask
+  - https://towardsdatascience.com/how-to-pull-data-from-an-api-using-python-requests-edcc8d6441b1
 - Scraping
   - https://towardsdatascience.com/web-scraping-using-python-and-beautifulsoap-a-step-by-step-tutorial-8389ee7da6a0
+  - https://www.codementor.io/blog/python-web-scraping-63l2v9sf2q
+  - http://www.gregreda.com/2015/02/15/web-scraping-finding-the-api/
+  - https://towardsdatascience.com/web-scraping-with-python-a-to-copy-z-277a445d64c7
+  - https://ianlondon.github.io/blog/web-scraping-discovering-hidden-apis/
+  - https://medium.com/@ethan.jarrell/building-a-web-scraper-from-start-to-finish-bb6b95388184
 - Data Visualization
   - [Reporting data using Python](https://github.com/nick-gould/Reporting-Data-Using-Python/blob/master/ReportingDataUsingPython.ipynb)
   - https://medium.com/swlh/your-ultimate-python-visualization-cheat-sheet-663318470db
