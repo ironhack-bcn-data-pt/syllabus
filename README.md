@@ -20,9 +20,9 @@
   - https://towardsdatascience.com/quick-dive-into-pandas-for-data-science-cc1c1a80d9c4
   - https://towardsdatascience.com/be-a-more-efficient-data-scientist-today-master-pandas-with-this-guide-ea362d27386
 - Advanced Pandas
-  - [Advanced tools] https://towardsdatascience.com/take-the-pain-out-of-data-cleaning-for-machine-learning-20a646a277fd   
+  - Advanced tools: https://towardsdatascience.com/take-the-pain-out-of-data-cleaning-for-machine-learning-20a646a277fd   
 - SQL
-- API + Flask
+- API
   - https://towardsdatascience.com/how-to-pull-data-from-an-api-using-python-requests-edcc8d6441b1
 - Scraping
   - https://towardsdatascience.com/web-scraping-using-python-and-beautifulsoap-a-step-by-step-tutorial-8389ee7da6a0
