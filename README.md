@@ -1,4 +1,4 @@
-# Syllabus
+# Contents
 
 ## Programming
 - Python + Jupyter + Git 
