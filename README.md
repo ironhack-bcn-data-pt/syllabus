@@ -31,6 +31,7 @@
   - https://towardsdatascience.com/web-scraping-with-python-a-to-copy-z-277a445d64c7
   - https://ianlondon.github.io/blog/web-scraping-discovering-hidden-apis/
   - https://medium.com/@ethan.jarrell/building-a-web-scraper-from-start-to-finish-bb6b95388184
+  - https://towardsdatascience.com/5-strategies-to-write-unblock-able-web-scrapers-in-python-5e40c147bdaf
 - Data Visualization
   - [Reporting data using Python](https://github.com/nick-gould/Reporting-Data-Using-Python/blob/master/ReportingDataUsingPython.ipynb)
   - https://medium.com/swlh/your-ultimate-python-visualization-cheat-sheet-663318470db
