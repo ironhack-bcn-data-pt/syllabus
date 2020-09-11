@@ -26,6 +26,7 @@
   - https://towardsdatascience.com/how-to-pull-data-from-an-api-using-python-requests-edcc8d6441b1
   - https://towardsdatascience.com/how-to-parse-json-data-with-python-pandas-f84fbd0b1025
 - Scraping
+  - http://www.gregreda.com/2015/02/15/web-scraping-finding-the-api/
   - https://towardsdatascience.com/web-scraping-using-python-and-beautifulsoap-a-step-by-step-tutorial-8389ee7da6a0
   - https://www.codementor.io/blog/python-web-scraping-63l2v9sf2q
   - http://www.gregreda.com/2015/02/15/web-scraping-finding-the-api/
