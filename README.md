@@ -49,9 +49,14 @@
 
 ## Maths
 - Descriptive statistics
+  - https://towardsdatascience.com/a-quick-guide-on-descriptive-statistics-using-pandas-and-seaborn-2aadc7395f32
 - Probability
+  - https://towardsdatascience.com/understanding-probability-finally-576d54dccdb5
+  - https://towardsdatascience.com/understanding-probability-and-statistics-the-essentials-of-probability-for-data-scientists-459d61a8da44
 - Discrete distributions 
+  - https://towardsdatascience.com/the-five-discrete-distributions-every-statistician-should-know-131400f77782
 - Continuous distributions
+  - https://towardsdatascience.com/all-the-distributions-you-need-to-know-ad570514987b
 - Hypothesis testing
 - Numpy algebra
 - Calculus
