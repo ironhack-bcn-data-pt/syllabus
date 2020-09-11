@@ -57,6 +57,7 @@
   - https://towardsdatascience.com/the-five-discrete-distributions-every-statistician-should-know-131400f77782
 - Continuous distributions
   - https://towardsdatascience.com/all-the-distributions-you-need-to-know-ad570514987b
+  - https://stattrek.com/survey-research/simple-random-sample-analysis.aspx
 - Hypothesis testing
 - Numpy algebra
 - Calculus
