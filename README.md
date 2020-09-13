@@ -59,8 +59,11 @@
   - https://towardsdatascience.com/all-the-distributions-you-need-to-know-ad570514987b
   - https://stattrek.com/survey-research/simple-random-sample-analysis.aspx
 - Hypothesis testing
-- Numpy algebra
-- Calculus
+  - https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f
+  - https://cosmiccoding.com.au/tutorials/ab_tests
+  - https://towardsdatascience.com/@mariap_91165
+  - https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce
+  - https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/
 
 ## Machine learning
 - Machine learning + Git/DVC
