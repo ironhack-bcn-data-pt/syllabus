@@ -71,6 +71,7 @@
 - Regression
   - https://towardsdatascience.com/simple-linear-regression-whats-inside-702475055ad5
 - Classification
+  - https://github.com/jdmoore7/Binary-Logistic-Regresion
   - https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/
 - CV, tuning, balanced
 - Dimensionality reduction
