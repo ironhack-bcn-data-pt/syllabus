@@ -78,7 +78,13 @@
 
 ## Advanced data analysis
 - Time series
+  - [Time Series Analysis in Python (video)](https://www.youtube.com/watch?v=e8Yw4alG16Q)
+  - https://towardsdatascience.com/time-series-forecasting-arima-models-7f221e9eee06
+  - https://towardsdatascience.com/stationarity-in-time-series-analysis-90c94f27322
+  - https://towardsdatascience.com/significance-of-acf-and-pacf-plots-in-time-series-analysis-2fa11a5d10a8
+  - https://medium.com/@josemarcialportilla/using-python-and-auto-arima-to-forecast-seasonal-time-series-90877adff03c
 - Network analysis
+  - https://medium.com/@josemarcialportilla/using-python-and-auto-arima-to-forecast-seasonal-time-series-90877adff03c
 - Geospatial analysis
 
 ## Deep learning
