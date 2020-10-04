@@ -86,6 +86,8 @@
   - https://medium.com/@josemarcialportilla/using-python-and-auto-arima-to-forecast-seasonal-time-series-90877adff03c
 - Network analysis
   - https://medium.com/@josemarcialportilla/using-python-and-auto-arima-to-forecast-seasonal-time-series-90877adff03c
+  - https://github.com/briatte/awesome-network-analysis
+  - https://github.com/dimgold/pycon_social_networkx
 - Geospatial analysis
 
 ## Deep learning
