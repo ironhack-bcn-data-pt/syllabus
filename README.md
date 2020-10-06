@@ -46,6 +46,34 @@
   - https://python-graph-gallery.com/315-a-world-map-of-surf-tweets/
   - https://github.com/StephanieStallworth/Exploratory_Data_Analysis_Visualization_Python
   - https://github.com/DataForScience/DataViz
+  
+- Storytelling
+  - Hans Rosling https://www.youtube.com/watch?v=jbkSRLYSojo
+  - https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen
+  - http://mwcimpact.com/
+  - http://www.nytimes.com/interactive/dining/new-york-health-department-restaurant-ratings-map.html?_r=0
+  - http://illustreets.co.uk/
+
+  - https://projects.fivethirtyeight.com/redistricting-maps/#MajMin
+  - https://elpais.com/economia/2019/09/11/actualidad/1568217626_928704.html
+  - https://www.eldiario.es/politica/votaron-resultados-elecciones-generales-calle_1_1257177.html
+  - https://elpais.com/economia/2019/09/11/actualidad/1568217626_928704.html
+  
+  - http://rollingstones.vizzuality.com/#/
+  - http://fingfx.thomsonreuters.com/gfx/rngs/MYANMAR-ROHINGYA/010051VB46G/index.html
+  - https://multimedia.scmp.com/news/china/article/One-Belt-One-Road/europe.html
+  - https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+  - https://www.nytimes.com/interactive/2020/us/coronavirus-spread.html
+  - https://www.washingtonpost.com/graphics/2020/world/coronavirus-deaths-1-million/
+  - https://www.themigrantsfiles.com/
+  - https://www.theguardian.com/us-news/ng-interactive/2015/oct/19/homan-square-chicago-police-detainees
+  - https://mappingpoliceviolence.org/
+  - http://desprotegides.cat/
+  
+  - https://www.climate-lab-book.ac.uk/spirals/
+  - https://www.nytimes.com/interactive/2019/12/02/climate/air-pollution-compare-ar-ul.html
+  - https://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html
+
 
 ## Maths
 - Descriptive statistics
