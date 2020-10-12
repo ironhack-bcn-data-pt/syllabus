@@ -34,7 +34,8 @@
   - https://ianlondon.github.io/blog/web-scraping-discovering-hidden-apis/
   - https://medium.com/@ethan.jarrell/building-a-web-scraper-from-start-to-finish-bb6b95388184
   - https://towardsdatascience.com/5-strategies-to-write-unblock-able-web-scrapers-in-python-5e40c147bdaf
-- Data Visualization
+  
+ ## Data Visualization
   - [Reporting data using Python](https://github.com/nick-gould/Reporting-Data-Using-Python/blob/master/ReportingDataUsingPython.ipynb)
   - https://medium.com/swlh/your-ultimate-python-visualization-cheat-sheet-663318470db
   - https://github.com/BritishGeologicalSurvey/geopandas-demo/blob/master/GeoPandas_demo.ipynb
@@ -46,6 +47,7 @@
   - https://python-graph-gallery.com/315-a-world-map-of-surf-tweets/
   - https://github.com/StephanieStallworth/Exploratory_Data_Analysis_Visualization_Python
   - https://github.com/DataForScience/DataViz
+  
   
 - Storytelling
   - Hans Rosling https://www.youtube.com/watch?v=jbkSRLYSojo
@@ -75,6 +77,12 @@
   - https://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html
 
 
+### Tableau
+
+ - https://www.youtube.com/watch?v=aHaOIvR00So&feature=youtu.be
+ - http://mikelmadina.com/tutoriales/tableau/
+ - http://tableaureferenceguide.com/
+ 
 ## Maths
 - Descriptive statistics
   - https://towardsdatascience.com/a-quick-guide-on-descriptive-statistics-using-pandas-and-seaborn-2aadc7395f32
