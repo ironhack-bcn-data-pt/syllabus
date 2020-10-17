@@ -112,6 +112,7 @@
 - CV, tuning, balanced
 - Dimensionality reduction
 - Clustering
+  - https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
 
 ## Advanced data analysis
 - Time series
