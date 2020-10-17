@@ -111,6 +111,7 @@
   - https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/
 - CV, tuning, balanced
 - Dimensionality reduction
+  - https://towardsdatascience.com/dimension-reduction-techniques-with-python-f36ca7009e5c
 - Clustering
   - https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
 
