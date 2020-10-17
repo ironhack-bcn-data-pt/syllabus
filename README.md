@@ -107,12 +107,15 @@
 - Feature engineering
 - Regression
   - https://towardsdatascience.com/simple-linear-regression-whats-inside-702475055ad5
+  - https://towardsdatascience.com/machine-learning-algorithms-from-start-to-finish-in-python-linear-regression-aa8c1d6b1169
 - Classification
   - https://github.com/jdmoore7/Binary-Logistic-Regresion
   - https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/
+  - https://machinelearningmastery.com/types-of-classification-in-machine-learning/
 - CV, tuning, balanced
 - Dimensionality reduction
   - https://towardsdatascience.com/dimension-reduction-techniques-with-python-f36ca7009e5c
+  - https://machinelearningmastery.com/dimensionality-reduction-algorithms-with-python/
 - Clustering
   - https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
 
