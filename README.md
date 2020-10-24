@@ -118,6 +118,8 @@
   - https://machinelearningmastery.com/dimensionality-reduction-algorithms-with-python/
 - Clustering
   - https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
+  - https://towardsdatascience.com/supervised-learning-vs-unsupervised-learning-30f9985f2435
+  -https://towardsdatascience.com/importance-of-distance-metrics-in-machine-learning-modelling-e51395ffe60d
 
 ## Advanced data analysis
 - Time series
