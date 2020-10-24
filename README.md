@@ -47,7 +47,7 @@
   - https://python-graph-gallery.com/315-a-world-map-of-surf-tweets/
   - https://github.com/StephanieStallworth/Exploratory_Data_Analysis_Visualization_Python
   - https://github.com/DataForScience/DataViz
-  
+  - https://www.visualcinnamon.com/resources/learning-data-visualization/books
   
 - Storytelling
   - Hans Rosling https://www.youtube.com/watch?v=jbkSRLYSojo
