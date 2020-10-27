@@ -119,8 +119,9 @@
 - Clustering
   - https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
   - https://towardsdatascience.com/supervised-learning-vs-unsupervised-learning-30f9985f2435
-  -https://towardsdatascience.com/importance-of-distance-metrics-in-machine-learning-modelling-e51395ffe60d
-
+  - https://towardsdatascience.com/importance-of-distance-metrics-in-machine-learning-modelling-e51395ffe60d
+  - https://towardsdatascience.com/k-means-clustering-in-python-4061510145cc
+  
 ## Advanced data analysis
 - Time series
   - [Time Series Analysis in Python (video)](https://www.youtube.com/watch?v=e8Yw4alG16Q)
