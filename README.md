@@ -106,7 +106,8 @@
   - https://towardsdatascience.com/a-guide-to-a-b-testing-how-to-formulate-design-and-interpret-f820cc62e21a
   
 ## Machine learning
-- Machine learning + Git/DVC
+- Machine learning
+  - https://towardsdatascience.com/data-science-for-e-commerce-with-python-a0a97dd7721d
 - Feature engineering
 - Regression
   - https://towardsdatascience.com/simple-linear-regression-whats-inside-702475055ad5
