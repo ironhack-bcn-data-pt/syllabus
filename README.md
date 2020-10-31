@@ -9,6 +9,7 @@
 - Github
   - https://towardsdatascience.com/version-control-101-getting-started-with-git-3b2c78d91184
   - https://towardsdatascience.com/the-4-steps-to-branching-in-git-that-data-scientists-should-know-3473c70aaa7a
+  - https://towardsdatascience.com/why-git-and-how-to-use-git-as-a-data-scientist-4fa2d3bdc197
   
 - Python data types
 - Python strings
