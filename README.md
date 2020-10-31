@@ -6,7 +6,8 @@
     - https://github.com/codingforentrepreneurs/30-Days-of-Python
     - https://medium.com/learning-machine-learning/present-your-data-science-projects-with-jupyter-slides-75f20735eb0f
     - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
-- Github
+- Git
+  - https://git-scm.com/book/es/v2
   - https://towardsdatascience.com/version-control-101-getting-started-with-git-3b2c78d91184
   - https://towardsdatascience.com/the-4-steps-to-branching-in-git-that-data-scientists-should-know-3473c70aaa7a
   - https://towardsdatascience.com/why-git-and-how-to-use-git-as-a-data-scientist-4fa2d3bdc197
