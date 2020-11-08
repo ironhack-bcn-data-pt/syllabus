@@ -117,6 +117,7 @@
 - Classification
   - https://github.com/jdmoore7/Binary-Logistic-Regresion
   - https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/
+  - https://medium.com/datos-y-ciencia/algoritmos-naive-bayes-fudamentos-e-implementaci%C3%B3n-4bcb24b307f
   - https://machinelearningmastery.com/types-of-classification-in-machine-learning/
 - CV, tuning, balanced
 - Dimensionality reduction
