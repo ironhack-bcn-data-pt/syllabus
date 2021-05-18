@@ -106,7 +106,9 @@
   - https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce
   - https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/
   - https://towardsdatascience.com/a-guide-to-a-b-testing-how-to-formulate-design-and-interpret-f820cc62e21a
-  
+  - https://towardsdatascience.com/practical-guide-to-common-probability-distributions-in-machine-learning-487f6137625
+  - https://towardsdatascience.com/practical-guide-to-common-probability-distributions-in-machine-learning-part-2-5bcb910218c0
+  - 
 ## Machine learning
 - Machine learning
   - https://towardsdatascience.com/data-science-for-e-commerce-with-python-a0a97dd7721d
