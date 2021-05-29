@@ -108,6 +108,7 @@
   - https://towardsdatascience.com/a-guide-to-a-b-testing-how-to-formulate-design-and-interpret-f820cc62e21a
   - https://towardsdatascience.com/practical-guide-to-common-probability-distributions-in-machine-learning-487f6137625
   - https://towardsdatascience.com/practical-guide-to-common-probability-distributions-in-machine-learning-part-2-5bcb910218c0
+  - https://towardsdatascience.com/living-in-the-wilderness-hypothesis-testing-in-a-world-that-disagrees-with-statistical-theory-15c9cac30a7a
 - PCA 
   - https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c
   - https://towardsdatascience.com/how-where-and-when-we-should-use-pca-ab3dddad5888
@@ -141,6 +142,7 @@
   - https://towardsdatascience.com/stationarity-in-time-series-analysis-90c94f27322
   - https://towardsdatascience.com/significance-of-acf-and-pacf-plots-in-time-series-analysis-2fa11a5d10a8
   - https://medium.com/@josemarcialportilla/using-python-and-auto-arima-to-forecast-seasonal-time-series-90877adff03c
+  - https://towardsdatascience.com/introduction-to-arima-for-time-series-forecasting-ee0bc285807a
 - Network analysis
   - https://medium.com/@josemarcialportilla/using-python-and-auto-arima-to-forecast-seasonal-time-series-90877adff03c
   - https://github.com/briatte/awesome-network-analysis
