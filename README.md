@@ -13,6 +13,8 @@
   - https://towardsdatascience.com/why-git-and-how-to-use-git-as-a-data-scientist-4fa2d3bdc197
   
 - Python data types
+    - https://www.w3schools.com/python/python_datatypes.asp
+    - https://towardsdatascience.com/python-basics-for-data-science-6a6c987f2755
 - Python strings
     - formating strings: https://realpython.com/python-f-strings/
     - formating strings: https://realpython.com/python-string-formatting/
