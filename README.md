@@ -14,6 +14,8 @@
   
 - Python data types
 - Python strings
+    - formating strings: https://realpython.com/python-f-strings/
+    - formating strings: https://realpython.com/python-string-formatting/
 - Python functions
 - Python classes
 - CSV + JSON + XML
