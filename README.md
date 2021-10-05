@@ -25,6 +25,8 @@
     - formating strings: https://realpython.com/python-f-strings/
     - formating strings: https://realpython.com/python-string-formatting/
 
+- Python os module
+    - https://www.geeksforgeeks.org/os-module-python-examples/
 - Python functions
 
 - Python classes
