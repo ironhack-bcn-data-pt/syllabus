@@ -29,6 +29,13 @@
     - https://www.geeksforgeeks.org/os-module-python-examples/
     
 - Python functions
+    - https://realpython.com/defining-your-own-python-function/
+    - https://www.w3schools.com/python/python_functions.asp
+
+- Python lambda functions
+    - https://www.programiz.com/python-programming/anonymous-function
+    - https://www.w3schools.com/python/python_lambda.asp
+    - https://realpython.com/python-lambda/
 
 - Python classes
     - https://docs.python.org/3/tutorial/classes.html
