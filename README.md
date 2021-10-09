@@ -27,10 +27,15 @@
 
 - Python os module
     - https://www.geeksforgeeks.org/os-module-python-examples/
+    
 - Python functions
 
 - Python classes
-
+    - https://docs.python.org/3/tutorial/classes.html
+    - https://www.w3schools.com/python/python_classes.asp
+    - https://www.programiz.com/python-programming/class
+    - https://realpython.com/python3-object-oriented-programming/
+    
 - CSV + JSON + XML
 
 ## Data wrangling and visualization
